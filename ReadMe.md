@@ -1,4 +1,4 @@
-#### Code for 'Embedding Deep Learning in Inverse Scattering Problem'. 
+## Code for 'Embedding Deep Learning in Inverse Scattering Problem'. 
 1. Link for original article - https://ieeexplore.ieee.org/document/8709721
 2. Slides for conference presentation - https://sanghviyashiitb.github.io/blog/2019-3-31-URSI
 
