@@ -1,6 +1,6 @@
 ## Instructions
 1. Download the repository into your local system
-2. Ensure that all Python-3.5+ is installed along with the necessary packages i.e.
+2. Ensure that Python-3.5+ is installed along with the necessary packages i.e.
 	* numpy
 	* scipy
 	* matplotlib
