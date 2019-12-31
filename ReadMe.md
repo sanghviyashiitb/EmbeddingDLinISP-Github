@@ -22,14 +22,4 @@ If you're using the code, please cite us as follows: <br>
   publisher={IEEE}<br>
 }<br>
 
-<b>Conference Presentation</b><br>
-@inproceedings{sanghvi2019embedding,<br>
-  title={Embedding Deep Learning in Inverse Scattering Solutions},<br>
-  author={Sanghvi, Yash and Kalepu, Yaswanth and Khankhoje, Uday K},<br>
-  booktitle={2019 URSI Asia-Pacific Radio Science Conference (AP-RASC)},<br>
-  pages={1--1},<br>
-  year={2019},<br>
-  organization={IEEE}<br>
-}<br>
-
 Also feel free to send your questions/feedback about the code or the paper to sanghviyash95@gmail.com !
