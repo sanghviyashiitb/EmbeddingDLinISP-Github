@@ -26,7 +26,7 @@ python3 download_model.py
 jupyter notebook
 ```
 
-The python script for downloading model file was provided by user <a link = "https://stackoverflow.com/users/1475331/turdus-merula">turdus-merula</a> from the link <a link="https://stackoverflow.com/questions/25010369/wget-curl-large-file-from-google-drive">here</a>.
+The python script for downloading model file was provided by user [turdus-merula](https://stackoverflow.com/users/1475331/turdus-merula) from the link [here](https://stackoverflow.com/questions/25010369/wget-curl-large-file-from-google-drive).
 
 
 If you're using the inverse scattering code, please cite us as follows: <br>
