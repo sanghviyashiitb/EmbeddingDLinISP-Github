@@ -3,16 +3,33 @@
 2. Slides for conference presentation - https://sanghviyashiitb.github.io/blog/2019-3-31-URSI
 
 ## Instructions
-1. Download the repository into your local system
-2. Ensure that Python-3.5+ is installed along with the necessary packages i.e.
+1. Before running the code, ensure that Python-3.5+, Jupyter Notebook is installed along with the necessary packages i.e.
 	* numpy
 	* scipy
 	* matplotlib
 	* pytorch
-3. Run file <i>download_model.py</i> to download the trained CS-Net.
+	* PIL
+2. Download the repository into your local system as zip file and unpack it. OR clone the git reporsitory using the following command:
+```console
+git clone https://github.com/sanghviyashiitb/EmbeddingDLinISP-Github.git
+```
+3. Enter the directory as
+```console
+cd EmbeddingDLinISP-Github/
+```
+4. Run file <i>download_model.py</i> to download the trained CS-Net.
+```console
+python3 download_model.py
+```
 4. Open <i>Tutorial.ipynb</i> using as a jupyter notebook to use the code provided! 
+```console
+jupyter notebook
+```
 
-If you're using the code, please cite us as follows: <br>
+The python script for downloading model file was provided by user <a link = "https://stackoverflow.com/users/1475331/turdus-merula">turdus-merula</a> from the link <a link="https://stackoverflow.com/questions/25010369/wget-curl-large-file-from-google-drive">here</a>.
+
+
+If you're using the inverse scattering code, please cite us as follows: <br>
 <b>Journal Article</b><br>
 @article{sanghvi2019embedding, <br>
   title={Embedding Deep Learning in Inverse Scattering Problems},<br>
