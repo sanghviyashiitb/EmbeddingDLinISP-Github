@@ -21,7 +21,7 @@ cd EmbeddingDLinISP-Github/
 ```console
 python3 download_model.py
 ```
-4. Open <i>Tutorial.ipynb</i> using as a jupyter notebook to use the code provided! 
+4. Open <i>Tutorial.ipynb</i> as a jupyter notebook to use the code provided! 
 ```console
 jupyter notebook
 ```
