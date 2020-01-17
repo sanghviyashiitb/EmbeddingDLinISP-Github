@@ -28,7 +28,10 @@ jupyter notebook
 
 The python script for downloading model file was provided by user [turdus-merula](https://stackoverflow.com/users/1475331/turdus-merula) from the link [here](https://stackoverflow.com/questions/25010369/wget-curl-large-file-from-google-drive).
 
+## License
+The code provided in this repository (i.e. Python and Jupyter scripts) is released under the (https://github.com/sanghviyashiitb/EmbeddingDLinISP-Github/blob/master/LICENSE)[MIT License]
 
+## Citation
 If you're using the inverse scattering code, please cite us as follows: <br>
 <b>Journal Article</b><br>
 @article{sanghvi2019embedding, <br>
