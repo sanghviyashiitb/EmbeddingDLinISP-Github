@@ -34,12 +34,14 @@ The code provided in this repository (i.e. Python and Jupyter scripts) is releas
 ## Citation
 If you're using the inverse scattering code, please cite us as follows: <br>
 <b>Journal Article</b><br>
+```
 @article{sanghvi2019embedding, <br>
-  title={Embedding Deep Learning in Inverse Scattering Problems},<br>
-  author={Sanghvi, Yash and Kalepu, Yaswanth N Ganga Bhavani and Khankhoje, Uday},<br>
-  journal={IEEE Transactions on Computational Imaging},<br>
-  year={2019},<br>
-  publisher={IEEE}<br>
-}<br>
+  title={Embedding Deep Learning in Inverse Scattering Problems},
+  author={Sanghvi, Yash and Kalepu, Yaswanth N Ganga Bhavani and Khankhoje, Uday},
+  journal={IEEE Transactions on Computational Imaging},
+  year={2019},
+  publisher={IEEE}
+}
+```
 
 Also feel free to send your questions/feedback about the code or the paper to sanghviyash95@gmail.com !
