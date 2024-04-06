@@ -17,9 +17,9 @@ git clone https://github.com/sanghviyashiitb/EmbeddingDLinISP-Github.git
 ```console
 cd EmbeddingDLinISP-Github/
 ```
-4. Run file <i>download_model.py</i> to download the trained CS-Net.
+4. The pretrained model can be found at the following link
 ```console
-python3 download_model.py
+wget https://huggingface.co/sanghviyash/embedding-dl-isp/blob/main/ContrastSourceNet_noisydata_25SNR_L16.pth
 ```
 4. Open <i>Tutorial.ipynb</i> as a jupyter notebook to use the code provided! 
 ```console
